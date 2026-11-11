@@ -1,0 +1,7 @@
+data.md
+instructions.md
+.github
+.dist
+*.node_modules
+node_modules
+dist
